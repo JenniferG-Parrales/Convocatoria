@@ -1,4 +1,0 @@
-C:\Users\Quezada\source\repos\ProductManager\ProductManager\obj\Debug\ProductManager.csproj.AssemblyReference.cache
-C:\Users\Quezada\source\repos\ProductManager\ProductManager\obj\Debug\ProductManager.Properties.Resources.resources
-C:\Users\Quezada\source\repos\ProductManager\ProductManager\obj\Debug\ProductManager.csproj.GenerateResource.cache
-C:\Users\Quezada\source\repos\ProductManager\ProductManager\obj\Debug\ProductManager.csproj.CoreCompileInputs.cache
